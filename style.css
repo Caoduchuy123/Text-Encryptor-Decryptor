@@ -84,4 +84,5 @@ h2 {
     min-height: 100px;
     overflow: hidden;
     border-radius: 5px;
+    word-wrap: break-word;
 }
